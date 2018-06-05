@@ -1,4 +1,5 @@
-1. Listar todos los coches, mostrar nombre y modelo.
+1. Listar todos los coches, mostrar nombre, modelo aceleracion y numero de cilindros.
+
 2. Contar cuantos coches son de "USA" de origen y tienen menos de 10 de aceleracion.
 3.Busqueda avanzada
     introduce por teclado cuantos cv tiene.
@@ -8,4 +9,7 @@
 4. Pedir por teclado un nombre de coche y te muestre el año de fabricacion.
     tengo un menu si me se el coche se lo digo al programa si no lo se te muestro una ayuda con los nombres para ayudarte a buscar la fecha de fabricacion de este.
 
-5 Adivina el coche.
+5 Adivina el coche
+Le pregunto al usuario algunas caracteristicas sobre mi coche si acierta las dos 
+le digo 'introduce el nombre' si no es 'fallaste' y si no acierta las dos caracteristica
+'por poco' o 'te colaste' segun el valor añadido
